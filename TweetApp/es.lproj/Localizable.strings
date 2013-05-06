@@ -1,0 +1,8 @@
+/* 
+  Localization.strings
+  TweetApp
+
+  Created by Daniel Mayo on 19/04/2013.
+  Copyright (c) 2013 Daniel Mayo. All rights reserved.
+*/
+"This is a tweet from my first social iOS app." = "Este es un tweet de mi primera aplicación social de iOS.";
